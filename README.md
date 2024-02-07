@@ -3,10 +3,7 @@
 Este projeto teve como objetivo, criar uma Pokédex similar a utilizada no desenho pokemon.
 
 
-
-https://github.com/pedrohmendes00/Pokedex/assets/145568848/41cc4e0b-9f31-4128-954e-de7e78a8247a
-
-
+https://github.com/pedrohmendes00/Pokedex/assets/145568848/c0a9acea-d8a8-4122-b2d0-cb472d3528c2
 
 ## Tecnologias
 
